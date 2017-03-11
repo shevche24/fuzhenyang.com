@@ -1,23 +1,4 @@
-/*****************************************************************************/
-/*
-/* Common
-/*
-/*****************************************************************************/
-
-/* Global Reset */
-
-* { margin: 0; padding: 0; }
-html, body { height: 100%; }
-body { background-color: #fff; font: 13.34px helvetica, arial, clean, sans-serif; }
-h1, h2, h3, h4, h5, h6 { font-size: 100%; }
-h1 { margin-bottom: 1em; }
-p { margin: 1em 0; }
-a { color: #00a; }
-a:hover { color: black; }
-a:visited { color: #a0a; }
-table { font-size: inherit; font: 100%; }
-
-.logo { font-size: 100px; text-align: center; color: #a00; font-weight: bold; position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); word-break: break-all; }
+.logo { font-size: 100px; text-align: center; color: #a00; font-weight: bold; position: absolute; width: 80%; padding: 0 10%; top: 50%; left: 50%; transform: translate(-50%, -50%); word-break: break-all; }
 .logo a { color: #a00; text-decoration: none; }
 .logo a:hover { color: black; }
 
