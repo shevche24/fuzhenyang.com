@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 markdown: rdiscount
 pygments: true
 baseurl: /
+=======
+theme: jekyll-theme-cayman
+>>>>>>> origin/master
